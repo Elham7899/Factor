@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\FactorProject\\Factor\\Application\\Application.csproj": {}
+    "E:\\Elham\\FactorSample\\Application\\Application.csproj": {}
   },
   "projects": {
-    "F:\\FactorProject\\Factor\\Application\\Application.csproj": {
+    "E:\\Elham\\FactorSample\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FactorProject\\Factor\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\Elham\\FactorSample\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "F:\\FactorProject\\Factor\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Zahra\\.nuget\\packages\\",
-        "outputPath": "F:\\FactorProject\\Factor\\Application\\obj\\",
+        "projectPath": "E:\\Elham\\FactorSample\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Elham\\.nuget\\packages\\",
+        "outputPath": "E:\\Elham\\FactorSample\\Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Zahra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Elham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\FactorProject\\Factor\\Data\\Data.csproj": {
-                "projectPath": "F:\\FactorProject\\Factor\\Data\\Data.csproj"
+              "E:\\Elham\\FactorSample\\Data\\Data.csproj": {
+                "projectPath": "E:\\Elham\\FactorSample\\Data\\Data.csproj"
               },
-              "F:\\FactorProject\\Factor\\Services\\Services.csproj": {
-                "projectPath": "F:\\FactorProject\\Factor\\Services\\Services.csproj"
+              "E:\\Elham\\FactorSample\\Services\\Services.csproj": {
+                "projectPath": "E:\\Elham\\FactorSample\\Services\\Services.csproj"
               }
             }
           }
@@ -45,13 +41,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -98,25 +88,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\FactorProject\\Factor\\Data\\Data.csproj": {
+    "E:\\Elham\\FactorSample\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FactorProject\\Factor\\Data\\Data.csproj",
+        "projectUniqueName": "E:\\Elham\\FactorSample\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "F:\\FactorProject\\Factor\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\Zahra\\.nuget\\packages\\",
-        "outputPath": "F:\\FactorProject\\Factor\\Data\\obj\\",
+        "projectPath": "E:\\Elham\\FactorSample\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Elham\\.nuget\\packages\\",
+        "outputPath": "E:\\Elham\\FactorSample\\Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Zahra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Elham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -130,8 +116,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\FactorProject\\Factor\\Entities\\Entities.csproj": {
-                "projectPath": "F:\\FactorProject\\Factor\\Entities\\Entities.csproj"
+              "E:\\Elham\\FactorSample\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Elham\\FactorSample\\Entities\\Entities.csproj"
               }
             }
           }
@@ -140,13 +126,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -177,25 +157,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\FactorProject\\Factor\\Entities\\Entities.csproj": {
+    "E:\\Elham\\FactorSample\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FactorProject\\Factor\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\Elham\\FactorSample\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "F:\\FactorProject\\Factor\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Zahra\\.nuget\\packages\\",
-        "outputPath": "F:\\FactorProject\\Factor\\Entities\\obj\\",
+        "projectPath": "E:\\Elham\\FactorSample\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Elham\\.nuget\\packages\\",
+        "outputPath": "E:\\Elham\\FactorSample\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Zahra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Elham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,13 +191,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -242,25 +212,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\FactorProject\\Factor\\Services\\Services.csproj": {
+    "E:\\Elham\\FactorSample\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\FactorProject\\Factor\\Services\\Services.csproj",
+        "projectUniqueName": "E:\\Elham\\FactorSample\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "F:\\FactorProject\\Factor\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\Zahra\\.nuget\\packages\\",
-        "outputPath": "F:\\FactorProject\\Factor\\Services\\obj\\",
+        "projectPath": "E:\\Elham\\FactorSample\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Elham\\.nuget\\packages\\",
+        "outputPath": "E:\\Elham\\FactorSample\\Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Zahra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Elham\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -280,13 +246,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -307,7 +267,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -629,24 +629,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Zahra\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Elham\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\FactorProject\\Factor\\Data\\Data.csproj",
+      "projectUniqueName": "E:\\Elham\\FactorSample\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "F:\\FactorProject\\Factor\\Data\\Data.csproj",
-      "packagesPath": "C:\\Users\\Zahra\\.nuget\\packages\\",
-      "outputPath": "F:\\FactorProject\\Factor\\Data\\obj\\",
+      "projectPath": "E:\\Elham\\FactorSample\\Data\\Data.csproj",
+      "packagesPath": "C:\\Users\\Elham\\.nuget\\packages\\",
+      "outputPath": "E:\\Elham\\FactorSample\\Data\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Zahra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Elham\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -660,8 +655,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\FactorProject\\Factor\\Entities\\Entities.csproj": {
-              "projectPath": "F:\\FactorProject\\Factor\\Entities\\Entities.csproj"
+            "E:\\Elham\\FactorSample\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\Elham\\FactorSample\\Entities\\Entities.csproj"
             }
           }
         }
@@ -670,13 +665,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -707,7 +696,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
