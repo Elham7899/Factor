@@ -1,0 +1,11 @@
+F:\FactorProject\Factor\Entities\bin\Debug\net8.0\Entities.deps.json
+F:\FactorProject\Factor\Entities\bin\Debug\net8.0\Entities.dll
+F:\FactorProject\Factor\Entities\bin\Debug\net8.0\Entities.pdb
+F:\FactorProject\Factor\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\FactorProject\Factor\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+F:\FactorProject\Factor\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+F:\FactorProject\Factor\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+F:\FactorProject\Factor\Entities\obj\Debug\net8.0\Entities.dll
+F:\FactorProject\Factor\Entities\obj\Debug\net8.0\refint\Entities.dll
+F:\FactorProject\Factor\Entities\obj\Debug\net8.0\Entities.pdb
+F:\FactorProject\Factor\Entities\obj\Debug\net8.0\ref\Entities.dll

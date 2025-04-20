@@ -1,0 +1,15 @@
+F:\FactorProject\Factor\Data\bin\Debug\net8.0\Data.deps.json
+F:\FactorProject\Factor\Data\bin\Debug\net8.0\Data.dll
+F:\FactorProject\Factor\Data\bin\Debug\net8.0\Data.pdb
+F:\FactorProject\Factor\Data\bin\Debug\net8.0\Entities.dll
+F:\FactorProject\Factor\Data\bin\Debug\net8.0\Entities.pdb
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\Data.csproj.AssemblyReference.cache
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\Data.csproj.Up2Date
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\Data.dll
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\refint\Data.dll
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\Data.pdb
+F:\FactorProject\Factor\Data\obj\Debug\net8.0\ref\Data.dll
