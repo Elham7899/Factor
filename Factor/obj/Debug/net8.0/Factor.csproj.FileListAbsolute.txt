@@ -101,3 +101,14 @@ F:\FactorProject\Factor\Factor\bin\Debug\net8.0\Application.pdb
 F:\FactorProject\Factor\Factor\bin\Debug\net8.0\Data.pdb
 F:\FactorProject\Factor\Factor\bin\Debug\net8.0\Entities.pdb
 F:\FactorProject\Factor\Factor\bin\Debug\net8.0\Services.pdb
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.csproj.AssemblyReference.cache
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.AssemblyInfoInputs.cache
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.AssemblyInfo.cs
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.csproj.CoreCompileInputs.cache
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.MvcApplicationPartsAssemblyInfo.cs
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.MvcApplicationPartsAssemblyInfo.cache
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.sourcelink.json
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.dll
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\refint\Factor.dll
+E:\Elham\FactorSample\Factor\obj\Debug\net8.0\Factor.pdb

@@ -17,3 +17,12 @@ F:\FactorProject\Factor\Application\obj\Debug\net8.0\Application.dll
 F:\FactorProject\Factor\Application\obj\Debug\net8.0\refint\Application.dll
 F:\FactorProject\Factor\Application\obj\Debug\net8.0\Application.pdb
 F:\FactorProject\Factor\Application\obj\Debug\net8.0\ref\Application.dll
+E:\Elham\FactorSample\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+E:\Elham\FactorSample\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Elham\FactorSample\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+E:\Elham\FactorSample\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+E:\Elham\FactorSample\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+E:\Elham\FactorSample\Application\obj\Debug\net8.0\Application.sourcelink.json
+E:\Elham\FactorSample\Application\obj\Debug\net8.0\Application.dll
+E:\Elham\FactorSample\Application\obj\Debug\net8.0\refint\Application.dll
+E:\Elham\FactorSample\Application\obj\Debug\net8.0\Application.pdb
