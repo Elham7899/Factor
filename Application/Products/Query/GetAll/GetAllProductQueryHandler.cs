@@ -7,9 +7,15 @@ using Services;
 
 namespace Application.Products.Query.GetAll;
 
-public class GetAllProductQueryHandler(IRepository<Product> productRepository) : IQueryHandler<GetAllProductQuery, ServiceResult<List<ProductDTO>>>
+public class GetAllProductQueryHandler : IQueryHandler<GetAllProductQuery, ServiceResult<List<ProductDTO>>>
 {
-    public async Task<ServiceResult<List<ProductDTO>>> Handle(GetAllProductQuery request, CancellationToken cancellationToken)
+	private readonly IRepository<Product> productRepository;
+
+	public GetAllProductQueryHandler(IRepository<Product> repository)
+	{
+		productRepository = repository;
+	}
+	public async Task<ServiceResult<List<ProductDTO>>> Handle(GetAllProductQuery request, CancellationToken cancellationToken)
     {
         var query = productRepository.Table;
 

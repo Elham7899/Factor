@@ -4,7 +4,7 @@ using Entities.FactorDetails;
 
 namespace Entities.Factors;
 
-public class Factor : BaseEntity<int>
+public class Factor : BaseEntity
 {
 	//Ctors
 	public Factor()

@@ -21,3 +21,15 @@ E:\Elham\FactorSample\Entities\obj\Debug\net8.0\Entities.dll
 E:\Elham\FactorSample\Entities\obj\Debug\net8.0\refint\Entities.dll
 E:\Elham\FactorSample\Entities\obj\Debug\net8.0\Entities.pdb
 E:\Elham\FactorSample\Entities\obj\Debug\net8.0\ref\Entities.dll
+E:\Elham\Factor\Entities\bin\Debug\net8.0\Entities.deps.json
+E:\Elham\Factor\Entities\bin\Debug\net8.0\Entities.dll
+E:\Elham\Factor\Entities\bin\Debug\net8.0\Entities.pdb
+E:\Elham\Factor\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Elham\Factor\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+E:\Elham\Factor\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+E:\Elham\Factor\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+E:\Elham\Factor\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+E:\Elham\Factor\Entities\obj\Debug\net8.0\Entities.dll
+E:\Elham\Factor\Entities\obj\Debug\net8.0\refint\Entities.dll
+E:\Elham\Factor\Entities\obj\Debug\net8.0\Entities.pdb
+E:\Elham\Factor\Entities\obj\Debug\net8.0\ref\Entities.dll

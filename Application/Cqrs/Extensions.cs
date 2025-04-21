@@ -15,7 +15,7 @@ public static class Extensions
         {
             c.RegisterServicesFromAssemblies(typeof(ICommand<>).Assembly);
         });
-        services.AddValidatorsFromAssembly(typeof(ICommand<>).Assembly);
+       // services.AddValidatorsFromAssembly();
         services.AddScoped<ICommandDispatcher, CommandDispatcher>();
         services.AddScoped<IQueryDispatcher, QueryDispatcher>();
         return services;

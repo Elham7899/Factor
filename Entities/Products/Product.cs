@@ -3,7 +3,7 @@ using Entities.FactorDetails;
 
 namespace Entities.Products;
 
-public class Product : BaseEntity<int>
+public class Product : BaseEntity
 {
     //Ctors
     public Product()

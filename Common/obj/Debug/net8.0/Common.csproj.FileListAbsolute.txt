@@ -21,3 +21,15 @@ E:\Elham\FactorSample\Common\obj\Debug\net8.0\Common.dll
 E:\Elham\FactorSample\Common\obj\Debug\net8.0\refint\Common.dll
 E:\Elham\FactorSample\Common\obj\Debug\net8.0\Common.pdb
 E:\Elham\FactorSample\Common\obj\Debug\net8.0\ref\Common.dll
+E:\Elham\Factor\Common\bin\Debug\net8.0\Common.deps.json
+E:\Elham\Factor\Common\bin\Debug\net8.0\Common.dll
+E:\Elham\Factor\Common\bin\Debug\net8.0\Common.pdb
+E:\Elham\Factor\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Elham\Factor\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+E:\Elham\Factor\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+E:\Elham\Factor\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+E:\Elham\Factor\Common\obj\Debug\net8.0\Common.sourcelink.json
+E:\Elham\Factor\Common\obj\Debug\net8.0\Common.dll
+E:\Elham\Factor\Common\obj\Debug\net8.0\refint\Common.dll
+E:\Elham\Factor\Common\obj\Debug\net8.0\Common.pdb
+E:\Elham\Factor\Common\obj\Debug\net8.0\ref\Common.dll
